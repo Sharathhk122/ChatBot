@@ -120,6 +120,48 @@ Screenshot:
 
 ![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(940).png)
 
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(941).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(942).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(943).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(944).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(945).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(946).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(947).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(948).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(949).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(950).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(951).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(952).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(953).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(954).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(955).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(956).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(957).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(958).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(959).png)
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(960).png)
+
+
+
 
   
 
