@@ -116,6 +116,9 @@ In url path type: localhost:3000/chat
 
 visit the subscription if click the slect this plan it will open the metamask confirm the transcation
 
+Screenshot:
+
+![fornt page](https://github.com/Sharathhk122/ChatBot/blob/main/Screenshot%20(940).png)
 
 
   
