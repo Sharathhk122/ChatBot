@@ -1,4 +1,4 @@
-Here’s an updated version of your README, including all the screenshots:
+
 
 ---
 
@@ -188,10 +188,4 @@ Here are some screenshots of the application in action:
 
 ---
 
-## **License**
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you need any changes!
