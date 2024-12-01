@@ -1,3 +1,4 @@
+Note: we are providing our own created API its free to use for everyone.
 Project Exection process 
 
 step 1: Download zip File
@@ -107,6 +108,13 @@ again visit vs code in context/index..js in line number 97 and 98 change to
   now come back to localhost:3000 click the top list_membership and then it will  automatically open the metamask and you click the confirm 
 
 if transaction is completed 
+
+
+step 8: you visit in browser
+
+In url path type: localhost:3000/chat 
+
+visit the subscription if click the slect this plan it will open the metamask confirm the transcation
 
 
 
