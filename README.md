@@ -10,6 +10,25 @@ This project is a decentralized application (DApp) utilizing **React**, **Hardha
 
 ---
 
+
+---
+
+## **Features**
+
+- **Decentralized Chatbot**: Interact with an AI-powered chatbot on the blockchain.
+- **Membership Plans**: Flexible subscription options (One Month, Six Months, One Year).
+- **Web3 Integration**: Connect and interact using MetaMask wallet.
+- **Smart Contract Functionality**: Deployed on Hardhat's local blockchain.
+- **Secure Transactions**: All payments and subscriptions handled through Ethereum smart contracts.
+- **User-Friendly Interface**: Simple and intuitive UI for managing subscriptions and chatting.
+- **Free Trial Option**: Users can try the chatbot before committing to a subscription.
+- **Custom API Integration**: Utilizes a custom-built, free-to-use API.
+- **Real-Time Updates**: Reflects membership status and chat interactions instantly.
+- **Browser Compatibility**: Optimized for Microsoft Edge.
+
+---
+
+
 ## **API**
 
 We provide a custom-built API for this project, free to use for everyone.
